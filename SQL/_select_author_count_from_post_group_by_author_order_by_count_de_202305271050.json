@@ -1,0 +1,5267 @@
+{
+"select author, count(*) from post group by author order by count(*) desc\r\n": [
+	{
+		"author" : "Lam Lam",
+		"count(*)" : 351
+	},
+	{
+		"author" : "Thảo BT3",
+		"count(*)" : 286
+	},
+	{
+		"author" : "Duy Nhi",
+		"count(*)" : 248
+	},
+	{
+		"author" : "Trần Duy Phong",
+		"count(*)" : 241
+	},
+	{
+		"author" : "Ngọc Khôi",
+		"count(*)" : 239
+	},
+	{
+		"author" : "Đức Hoàng",
+		"count(*)" : 189
+	},
+	{
+		"author" : "Minh Nguyệt",
+		"count(*)" : 182
+	},
+	{
+		"author" : "Phan Huyền",
+		"count(*)" : 178
+	},
+	{
+		"author" : "Farrah Nguyen",
+		"count(*)" : 172
+	},
+	{
+		"author" : "Diệu Quang",
+		"count(*)" : 171
+	},
+	{
+		"author" : "Quang Diệu",
+		"count(*)" : 159
+	},
+	{
+		"author" : "Đình Trọng",
+		"count(*)" : 158
+	},
+	{
+		"author" : "Nguyễn Hùng",
+		"count(*)" : 151
+	},
+	{
+		"author" : "Pham Ngoc Thanh",
+		"count(*)" : 149
+	},
+	{
+		"author" : "Th.Q",
+		"count(*)" : 146
+	},
+	{
+		"author" : "VietnamBusinessInsider",
+		"count(*)" : 137
+	},
+	{
+		"author" : "Mr Tee",
+		"count(*)" : 132
+	},
+	{
+		"author" : "Phạm Tú",
+		"count(*)" : 130
+	},
+	{
+		"author" : "Sa Mộc",
+		"count(*)" : 126
+	},
+	{
+		"author" : "Nam Mi",
+		"count(*)" : 123
+	},
+	{
+		"author" : "NDHMedia",
+		"count(*)" : 121
+	},
+	{
+		"author" : "Kim Diệu",
+		"count(*)" : 118
+	},
+	{
+		"author" : "Kim Ngân",
+		"count(*)" : 111
+	},
+	{
+		"author" : "Allie",
+		"count(*)" : 100
+	},
+	{
+		"author" : "Cẩm Bích",
+		"count(*)" : 98
+	},
+	{
+		"author" : "Đan Thanh",
+		"count(*)" : 97
+	},
+	{
+		"author" : "Ái Châu",
+		"count(*)" : 96
+	},
+	{
+		"author" : "Trần Quang",
+		"count(*)" : 92
+	},
+	{
+		"author" : "Mi Mi",
+		"count(*)" : 92
+	},
+	{
+		"author" : "Nguyễn Phi Vân",
+		"count(*)" : 90
+	},
+	{
+		"author" : "Hồng Lê",
+		"count(*)" : 89
+	},
+	{
+		"author" : "Tiểu Mạn",
+		"count(*)" : 88
+	},
+	{
+		"author" : "Lê Khôi",
+		"count(*)" : 84
+	},
+	{
+		"author" : "Nguyên An",
+		"count(*)" : 75
+	},
+	{
+		"author" : "Phan Nhi",
+		"count(*)" : 74
+	},
+	{
+		"author" : "Qreal",
+		"count(*)" : 73
+	},
+	{
+		"author" : "Phạm Doanh",
+		"count(*)" : 69
+	},
+	{
+		"author" : "Đỗ Cao Bảo - Phó Chủ tịch HĐQT FPT",
+		"count(*)" : 69
+	},
+	{
+		"author" : "Cao Thảo",
+		"count(*)" : 66
+	},
+	{
+		"author" : "Minh Dự",
+		"count(*)" : 65
+	},
+	{
+		"author" : "Cao Chí Cang",
+		"count(*)" : 58
+	},
+	{
+		"author" : "Như Quỳnh",
+		"count(*)" : 58
+	},
+	{
+		"author" : "Lâm Minh Chánh - Founder & CEO tại Học viện Kinh d",
+		"count(*)" : 57
+	},
+	{
+		"author" : "Cao MInh",
+		"count(*)" : 55
+	},
+	{
+		"author" : "Phượng",
+		"count(*)" : 55
+	},
+	{
+		"author" : "HR Insider",
+		"count(*)" : 53
+	},
+	{
+		"author" : "Phượng Thạch",
+		"count(*)" : 53
+	},
+	{
+		"author" : "Ricky Hồ",
+		"count(*)" : 52
+	},
+	{
+		"author" : "Đại Trường Sơn Group - DTSG",
+		"count(*)" : 52
+	},
+	{
+		"author" : "Lê Văn Long",
+		"count(*)" : 52
+	},
+	{
+		"author" : "Truong Money",
+		"count(*)" : 52
+	},
+	{
+		"author" : "Vân Anh",
+		"count(*)" : 52
+	},
+	{
+		"author" : "Jun Nguyen",
+		"count(*)" : 51
+	},
+	{
+		"author" : "Nguyễn Quang Hiệp",
+		"count(*)" : 51
+	},
+	{
+		"author" : "Hoang",
+		"count(*)" : 51
+	},
+	{
+		"author" : "Nguyễn Hồng Điệp - CEO CTCP Tư Vấn Đầu Tư S-Talk",
+		"count(*)" : 51
+	},
+	{
+		"author" : "Dương Tống - CEO HomeNext, OnHomeAsia, Tác giả sác",
+		"count(*)" : 50
+	},
+	{
+		"author" : "Nguyễn Dương",
+		"count(*)" : 49
+	},
+	{
+		"author" : "Phạm Hương Giang",
+		"count(*)" : 46
+	},
+	{
+		"author" : "Mộc Công",
+		"count(*)" : 46
+	},
+	{
+		"author" : "Ngọc Ánh",
+		"count(*)" : 45
+	},
+	{
+		"author" : "Hải Đăng",
+		"count(*)" : 44
+	},
+	{
+		"author" : "Hồng Anh",
+		"count(*)" : 44
+	},
+	{
+		"author" : "Lucia Nguyen",
+		"count(*)" : 43
+	},
+	{
+		"author" : "Lương Hà Giang",
+		"count(*)" : 42
+	},
+	{
+		"author" : "Xuân Thương",
+		"count(*)" : 42
+	},
+	{
+		"author" : "Minh Tâm",
+		"count(*)" : 42
+	},
+	{
+		"author" : "Lê Hải Vân",
+		"count(*)" : 41
+	},
+	{
+		"author" : "Nguyên Thảo",
+		"count(*)" : 40
+	},
+	{
+		"author" : "Bích Ngọc",
+		"count(*)" : 39
+	},
+	{
+		"author" : "Hải Yến",
+		"count(*)" : 39
+	},
+	{
+		"author" : "Đặng Hoàng Minh",
+		"count(*)" : 37
+	},
+	{
+		"author" : "Anh MondiaL",
+		"count(*)" : 36
+	},
+	{
+		"author" : "Quốc Thụy",
+		"count(*)" : 36
+	},
+	{
+		"author" : "Thu Thủy",
+		"count(*)" : 35
+	},
+	{
+		"author" : "BachKhoaCenterOfficial",
+		"count(*)" : 33
+	},
+	{
+		"author" : "Bò Và Gấu",
+		"count(*)" : 33
+	},
+	{
+		"author" : "Anh Hoa",
+		"count(*)" : 33
+	},
+	{
+		"author" : "Nguyễn Sơn",
+		"count(*)" : 32
+	},
+	{
+		"author" : "NeoAsteroid",
+		"count(*)" : 32
+	},
+	{
+		"author" : "Nguyễn Thị Ngọc - Marketing Manager of VTALK Acade",
+		"count(*)" : 31
+	},
+	{
+		"author" : "Huỳnh Minh Tuấn - Founder tại FIDT",
+		"count(*)" : 31
+	},
+	{
+		"author" : "Lê Quang Hưng",
+		"count(*)" : 30
+	},
+	{
+		"author" : "Lê Diệu Quang",
+		"count(*)" : 30
+	},
+	{
+		"author" : "Hoàng Tùng - Founder Chuỗi Pizza Home và Bếp trên ",
+		"count(*)" : 29
+	},
+	{
+		"author" : "Việt Hiếu",
+		"count(*)" : 29
+	},
+	{
+		"author" : "Trần Đạt",
+		"count(*)" : 29
+	},
+	{
+		"author" : "Lý Xuân Hải",
+		"count(*)" : 27
+	},
+	{
+		"author" : "Đỗ Quyên",
+		"count(*)" : 26
+	},
+	{
+		"author" : "Thu Nguyet",
+		"count(*)" : 24
+	},
+	{
+		"author" : "Quyền Vũ - Founder Vũ Digital",
+		"count(*)" : 23
+	},
+	{
+		"author" : "Thanh Trà",
+		"count(*)" : 23
+	},
+	{
+		"author" : "AnyMind Group",
+		"count(*)" : 23
+	},
+	{
+		"author" : "Lưu Đức",
+		"count(*)" : 22
+	},
+	{
+		"author" : "Phạm Thị Quế",
+		"count(*)" : 22
+	},
+	{
+		"author" : "Vũ Thị Ánh Tuyết",
+		"count(*)" : 22
+	},
+	{
+		"author" : "Realinsider",
+		"count(*)" : 22
+	},
+	{
+		"author" : "Will Trần",
+		"count(*)" : 22
+	},
+	{
+		"author" : "Trần Khải Minh Nhật",
+		"count(*)" : 21
+	},
+	{
+		"author" : "Lê Xuân Trung",
+		"count(*)" : 21
+	},
+	{
+		"author" : "LuLu",
+		"count(*)" : 21
+	},
+	{
+		"author" : "Leo Minh",
+		"count(*)" : 19
+	},
+	{
+		"author" : "Nguyễn Thị Minh Phương",
+		"count(*)" : 19
+	},
+	{
+		"author" : "Mai Hạnh",
+		"count(*)" : 19
+	},
+	{
+		"author" : "Minh Ngọc",
+		"count(*)" : 19
+	},
+	{
+		"author" : "Trần Khánh Quang - CEO công ty Bất Động sản Việt A",
+		"count(*)" : 18
+	},
+	{
+		"author" : "NQL2022",
+		"count(*)" : 18
+	},
+	{
+		"author" : "Lãng tử buôn nước mắm",
+		"count(*)" : 18
+	},
+	{
+		"author" : "Lê Nguyễn",
+		"count(*)" : 17
+	},
+	{
+		"author" : "Hà Giang",
+		"count(*)" : 16
+	},
+	{
+		"author" : "Đoàn Dự",
+		"count(*)" : 16
+	},
+	{
+		"author" : "Chí Thanh",
+		"count(*)" : 16
+	},
+	{
+		"author" : "REICVN",
+		"count(*)" : 16
+	},
+	{
+		"author" : "Nguyễn Thành Nam - Nhà sáng lập, Hiệu trưởng Đại h",
+		"count(*)" : 16
+	},
+	{
+		"author" : "Vubaoreal.Official",
+		"count(*)" : 15
+	},
+	{
+		"author" : "Nguyễn Ngọc Long - CEO Truyền thông Trăng Đen",
+		"count(*)" : 14
+	},
+	{
+		"author" : "Nguyễn Đức Sơn - Chủ tịch Học viện Thương hiệu Pla",
+		"count(*)" : 14
+	},
+	{
+		"author" : "Ngọc Bảo",
+		"count(*)" : 14
+	},
+	{
+		"author" : "Minh Anh",
+		"count(*)" : 14
+	},
+	{
+		"author" : "Hoài Trần",
+		"count(*)" : 14
+	},
+	{
+		"author" : "Nguyễn Hữu Long - Founder Group Phát Triển Doanh n",
+		"count(*)" : 14
+	},
+	{
+		"author" : "Học viện Bò và Gấu",
+		"count(*)" : 14
+	},
+	{
+		"author" : "Mai Quốc Bình - Founder & Chairman Thế Giới Giấy",
+		"count(*)" : 13
+	},
+	{
+		"author" : "Nguyễn Phán",
+		"count(*)" : 13
+	},
+	{
+		"author" : "Vincent Nguyen (Quân sư Cá mâp)",
+		"count(*)" : 13
+	},
+	{
+		"author" : "Nguyễn Bích Thủy",
+		"count(*)" : 13
+	},
+	{
+		"author" : "TS Phạm Sỹ Thành - Giám đốc Chương trình Nghiên cứ",
+		"count(*)" : 13
+	},
+	{
+		"author" : "Lê Quốc Kiên",
+		"count(*)" : 12
+	},
+	{
+		"author" : "Lynch Phan - Founder Take Profit",
+		"count(*)" : 12
+	},
+	{
+		"author" : "Tony Buổi Sáng",
+		"count(*)" : 12
+	},
+	{
+		"author" : "Trần Ngọc Báu - Founder & CEO tại WiGroup",
+		"count(*)" : 12
+	},
+	{
+		"author" : "kim Hồng",
+		"count(*)" : 12
+	},
+	{
+		"author" : "Nguyễn Quốc Toàn – Chủ tịch EQuest Group",
+		"count(*)" : 12
+	},
+	{
+		"author" : "Minh Phương Nguyễn",
+		"count(*)" : 12
+	},
+	{
+		"author" : "Trong Nhan Nguyen",
+		"count(*)" : 12
+	},
+	{
+		"author" : "Nhất Tiếu Sơn Trà",
+		"count(*)" : 11
+	},
+	{
+		"author" : "Nguyễn Quang Hiếu",
+		"count(*)" : 11
+	},
+	{
+		"author" : "Nam Nguyen",
+		"count(*)" : 11
+	},
+	{
+		"author" : "Lợi Trần",
+		"count(*)" : 11
+	},
+	{
+		"author" : "Phạm Trang",
+		"count(*)" : 11
+	},
+	{
+		"author" : "Nguyễn Thị Bích Hậu",
+		"count(*)" : 11
+	},
+	{
+		"author" : "Ori Marketing Agency",
+		"count(*)" : 11
+	},
+	{
+		"author" : "Hạ Vy",
+		"count(*)" : 11
+	},
+	{
+		"author" : "Thùy Linh",
+		"count(*)" : 10
+	},
+	{
+		"author" : "Hoàng Thị Kim Dung - Country Director tại Genesia ",
+		"count(*)" : 10
+	},
+	{
+		"author" : "Lưu Vân",
+		"count(*)" : 10
+	},
+	{
+		"author" : "Đông DC",
+		"count(*)" : 10
+	},
+	{
+		"author" : "Võ Mỹ Linh",
+		"count(*)" : 10
+	},
+	{
+		"author" : "Hà Hà",
+		"count(*)" : 10
+	},
+	{
+		"author" : "Cù Tuấn",
+		"count(*)" : 10
+	},
+	{
+		"author" : "Bảo Duy",
+		"count(*)" : 10
+	},
+	{
+		"author" : "Nguyễn Phúc",
+		"count(*)" : 10
+	},
+	{
+		"author" : "Fiin Group",
+		"count(*)" : 10
+	},
+	{
+		"author" : "Anh Tuấn",
+		"count(*)" : 10
+	},
+	{
+		"author" : "Trần Thị Diệu Hương",
+		"count(*)" : 10
+	},
+	{
+		"author" : "Phạm An Nhiên",
+		"count(*)" : 9
+	},
+	{
+		"author" : "maihuynh",
+		"count(*)" : 9
+	},
+	{
+		"author" : "Minh Trang",
+		"count(*)" : 9
+	},
+	{
+		"author" : "Hà Dương",
+		"count(*)" : 9
+	},
+	{
+		"author" : "lnghivmex",
+		"count(*)" : 9
+	},
+	{
+		"author" : "Hoàng Thanh Trà",
+		"count(*)" : 9
+	},
+	{
+		"author" : "Việt Trần",
+		"count(*)" : 9
+	},
+	{
+		"author" : "Phan Vi",
+		"count(*)" : 8
+	},
+	{
+		"author" : "Sơn Nguyễn",
+		"count(*)" : 8
+	},
+	{
+		"author" : "Mạnh Cường Bluechip",
+		"count(*)" : 8
+	},
+	{
+		"author" : "Đỗ Phượng",
+		"count(*)" : 8
+	},
+	{
+		"author" : "Huỳnh Tuấn",
+		"count(*)" : 8
+	},
+	{
+		"author" : "Thùy Dung",
+		"count(*)" : 8
+	},
+	{
+		"author" : "Đinh Thế Hiển",
+		"count(*)" : 8
+	},
+	{
+		"author" : "Nguyễn Phượng",
+		"count(*)" : 8
+	},
+	{
+		"author" : "Nguyễn Ngọc Xuân Quỳnh",
+		"count(*)" : 8
+	},
+	{
+		"author" : "Trần Hùng Thiện",
+		"count(*)" : 7
+	},
+	{
+		"author" : "Pham Thanh Doanh",
+		"count(*)" : 7
+	},
+	{
+		"author" : "Mỹ Tâm",
+		"count(*)" : 7
+	},
+	{
+		"author" : "Thế An\/Rever",
+		"count(*)" : 7
+	},
+	{
+		"author" : "Thu Phương",
+		"count(*)" : 7
+	},
+	{
+		"author" : "Mai Nguyễn Hoàng Nam - Founder & CEO Học viện Kỹ n",
+		"count(*)" : 7
+	},
+	{
+		"author" : "Nguyễn Thị Thu Thủy",
+		"count(*)" : 7
+	},
+	{
+		"author" : "Mai Quốc Bình",
+		"count(*)" : 7
+	},
+	{
+		"author" : "Rever",
+		"count(*)" : 7
+	},
+	{
+		"author" : "Trịnh Minh Hải",
+		"count(*)" : 7
+	},
+	{
+		"author" : "Nguyên Phương\/Rever",
+		"count(*)" : 7
+	},
+	{
+		"author" : "Nguyễn Trung Dũng - Founder&CEO DHFoods",
+		"count(*)" : 7
+	},
+	{
+		"author" : "thanhloi",
+		"count(*)" : 6
+	},
+	{
+		"author" : "Huỳnh Nhật Trình",
+		"count(*)" : 6
+	},
+	{
+		"author" : "Mạnh Đức",
+		"count(*)" : 6
+	},
+	{
+		"author" : "Tố Uyên",
+		"count(*)" : 6
+	},
+	{
+		"author" : "SpaceShare VN",
+		"count(*)" : 6
+	},
+	{
+		"author" : "Huỳnh Thế Du - Trường Chính sách công và Quản lý, ",
+		"count(*)" : 6
+	},
+	{
+		"author" : "Admin",
+		"count(*)" : 6
+	},
+	{
+		"author" : "Giang Lê",
+		"count(*)" : 6
+	},
+	{
+		"author" : "Nguyễn Thị Kiều Ngân",
+		"count(*)" : 6
+	},
+	{
+		"author" : "Henry Do",
+		"count(*)" : 6
+	},
+	{
+		"author" : "Lê Minh Đức - Co-Founder\/Producer tại Remaps",
+		"count(*)" : 6
+	},
+	{
+		"author" : "Tôn Bình",
+		"count(*)" : 6
+	},
+	{
+		"author" : "Nguyễn Ngọc Long",
+		"count(*)" : 6
+	},
+	{
+		"author" : "Vũ Minh Trường",
+		"count(*)" : 6
+	},
+	{
+		"author" : "Thanh Thảo",
+		"count(*)" : 6
+	},
+	{
+		"author" : "Mai Ngọc Thủy",
+		"count(*)" : 6
+	},
+	{
+		"author" : "Mai Hương",
+		"count(*)" : 5
+	},
+	{
+		"author" : "Đỗ Hòa - Giám đốc điều hành Công ty Tư vấn Tinh Ho",
+		"count(*)" : 5
+	},
+	{
+		"author" : "Thanh Nam Le",
+		"count(*)" : 5
+	},
+	{
+		"author" : "Đào Trung Thành",
+		"count(*)" : 5
+	},
+	{
+		"author" : "Trần Thịnh Lâm",
+		"count(*)" : 5
+	},
+	{
+		"author" : "Trần Thị Tuyết Nga",
+		"count(*)" : 5
+	},
+	{
+		"author" : "Linh Chi",
+		"count(*)" : 5
+	},
+	{
+		"author" : "Phạm Minh Trang",
+		"count(*)" : 5
+	},
+	{
+		"author" : "Long Hoàng",
+		"count(*)" : 5
+	},
+	{
+		"author" : "Trần Bằng Việt",
+		"count(*)" : 5
+	},
+	{
+		"author" : "Tướng Tiền",
+		"count(*)" : 5
+	},
+	{
+		"author" : "Ngốc Kiến Thức Dạo",
+		"count(*)" : 5
+	},
+	{
+		"author" : "Đào Văn Tùng",
+		"count(*)" : 5
+	},
+	{
+		"author" : "Tàng Long",
+		"count(*)" : 5
+	},
+	{
+		"author" : "Thiên Phúc",
+		"count(*)" : 5
+	},
+	{
+		"author" : "Minh Thiên",
+		"count(*)" : 5
+	},
+	{
+		"author" : "Phạm Hưng Thủy",
+		"count(*)" : 5
+	},
+	{
+		"author" : "Finhay",
+		"count(*)" : 5
+	},
+	{
+		"author" : "Lý Quý Trung",
+		"count(*)" : 5
+	},
+	{
+		"author" : "Lê Thanh Hoa",
+		"count(*)" : 5
+	},
+	{
+		"author" : "Nguyễn Hồng Lam",
+		"count(*)" : 5
+	},
+	{
+		"author" : "Dương Ngoc Anh",
+		"count(*)" : 5
+	},
+	{
+		"author" : "Luật sư Nguyễn Đăng Tư",
+		"count(*)" : 4
+	},
+	{
+		"author" : "Minh Phương",
+		"count(*)" : 4
+	},
+	{
+		"author" : "HoangLong",
+		"count(*)" : 4
+	},
+	{
+		"author" : "Hoàng Anh Tuấn",
+		"count(*)" : 4
+	},
+	{
+		"author" : "Góc Nhìn Alan",
+		"count(*)" : 4
+	},
+	{
+		"author" : "Trung Bùi",
+		"count(*)" : 4
+	},
+	{
+		"author" : "Bảo Tín",
+		"count(*)" : 4
+	},
+	{
+		"author" : "Chi Bảo",
+		"count(*)" : 4
+	},
+	{
+		"author" : "Đông Tà",
+		"count(*)" : 4
+	},
+	{
+		"author" : "Rubi Lee",
+		"count(*)" : 4
+	},
+	{
+		"author" : "Lê Giang",
+		"count(*)" : 4
+	},
+	{
+		"author" : "YouNet Media",
+		"count(*)" : 4
+	},
+	{
+		"author" : "Kim Quân",
+		"count(*)" : 4
+	},
+	{
+		"author" : "An An",
+		"count(*)" : 4
+	},
+	{
+		"author" : "Bạch Huệ",
+		"count(*)" : 4
+	},
+	{
+		"author" : "Lan Chi",
+		"count(*)" : 4
+	},
+	{
+		"author" : "Đồng Tiến",
+		"count(*)" : 4
+	},
+	{
+		"author" : "DŨNG PHAN",
+		"count(*)" : 4
+	},
+	{
+		"author" : "Viet Capital Securities",
+		"count(*)" : 4
+	},
+	{
+		"author" : "NDH",
+		"count(*)" : 4
+	},
+	{
+		"author" : "Nguyễn Minh Tú",
+		"count(*)" : 4
+	},
+	{
+		"author" : "Bác sĩ Trần Văn Phúc",
+		"count(*)" : 4
+	},
+	{
+		"author" : "Hạo Vũ",
+		"count(*)" : 4
+	},
+	{
+		"author" : "Đỗ Cao Bảo- Phó Chủ tịch HĐQT FPT",
+		"count(*)" : 4
+	},
+	{
+		"author" : "Bảo Tiên",
+		"count(*)" : 4
+	},
+	{
+		"author" : "Thảo Nguyên",
+		"count(*)" : 3
+	},
+	{
+		"author" : "GS Nguyễn Văn Tuấn",
+		"count(*)" : 3
+	},
+	{
+		"author" : "Giang Thanh",
+		"count(*)" : 3
+	},
+	{
+		"author" : "Tài Trần",
+		"count(*)" : 3
+	},
+	{
+		"author" : "TS Hồ Quốc Tuấn, giảng viên Đại học Bristol, Anh",
+		"count(*)" : 3
+	},
+	{
+		"author" : "Trần Anh",
+		"count(*)" : 3
+	},
+	{
+		"author" : "Annie Pham",
+		"count(*)" : 3
+	},
+	{
+		"author" : "Đình Nguyễn",
+		"count(*)" : 3
+	},
+	{
+		"author" : "Ha Hoang",
+		"count(*)" : 3
+	},
+	{
+		"author" : "Phạm Thế Anh (Khải Anh Travel & Investment)",
+		"count(*)" : 3
+	},
+	{
+		"author" : "Tấn Thịnh",
+		"count(*)" : 3
+	},
+	{
+		"author" : "Nguyễn Minh Thảo - Founder\/CEO Umbala",
+		"count(*)" : 3
+	},
+	{
+		"author" : "Vũ Minh Trường - Chuyên gia Chiến Lược Đàm Phán",
+		"count(*)" : 3
+	},
+	{
+		"author" : "TS Huỳnh Thế Du",
+		"count(*)" : 3
+	},
+	{
+		"author" : "Ngọc My",
+		"count(*)" : 3
+	},
+	{
+		"author" : "Lương Hoài Nam",
+		"count(*)" : 3
+	},
+	{
+		"author" : "Đỗ Vân",
+		"count(*)" : 3
+	},
+	{
+		"author" : "Minh Hoàng",
+		"count(*)" : 3
+	},
+	{
+		"author" : "thanh nguyễn",
+		"count(*)" : 3
+	},
+	{
+		"author" : "Nguyễn Thanh Tùng",
+		"count(*)" : 3
+	},
+	{
+		"author" : "Trần Huy Nam",
+		"count(*)" : 3
+	},
+	{
+		"author" : "Mig0",
+		"count(*)" : 3
+	},
+	{
+		"author" : "Duy Linh",
+		"count(*)" : 3
+	},
+	{
+		"author" : "Nguyen Huu Hon",
+		"count(*)" : 3
+	},
+	{
+		"author" : "Nguyễn Như",
+		"count(*)" : 3
+	},
+	{
+		"author" : "Đoàn Hiếu Minh - CEO Ngũ Phúc Đường",
+		"count(*)" : 3
+	},
+	{
+		"author" : "Cù Huy Hùng",
+		"count(*)" : 3
+	},
+	{
+		"author" : "Thông Phan",
+		"count(*)" : 3
+	},
+	{
+		"author" : "Tuệ Dương",
+		"count(*)" : 3
+	},
+	{
+		"author" : "Quang Hưng",
+		"count(*)" : 3
+	},
+	{
+		"author" : "Quốc Thông",
+		"count(*)" : 3
+	},
+	{
+		"author" : "Lưu Văn Tuân",
+		"count(*)" : 3
+	},
+	{
+		"author" : "Vũ Hạo",
+		"count(*)" : 3
+	},
+	{
+		"author" : "Lê Na",
+		"count(*)" : 3
+	},
+	{
+		"author" : "Mr Coach - Lâm Bình Bảo",
+		"count(*)" : 3
+	},
+	{
+		"author" : "Nguyễn Minh Phương",
+		"count(*)" : 3
+	},
+	{
+		"author" : "Hassler",
+		"count(*)" : 3
+	},
+	{
+		"author" : "Trần Từ",
+		"count(*)" : 3
+	},
+	{
+		"author" : "Thái Hòa",
+		"count(*)" : 3
+	},
+	{
+		"author" : "Dr Cherry Vũ - CEO Công ty tư vấn toàn cầu Teal Un",
+		"count(*)" : 3
+	},
+	{
+		"author" : "Nguyễn Dương - Chuyên gia trải nghiệm khách hàng",
+		"count(*)" : 3
+	},
+	{
+		"author" : "Hà Hà Dương",
+		"count(*)" : 3
+	},
+	{
+		"author" : "PHIMA",
+		"count(*)" : 3
+	},
+	{
+		"author" : "Đỗ Quỳnh Anh",
+		"count(*)" : 3
+	},
+	{
+		"author" : "Nguyễn Đỗ Thuyên",
+		"count(*)" : 3
+	},
+	{
+		"author" : "Nguyễn Bích",
+		"count(*)" : 3
+	},
+	{
+		"author" : "Lam Lam (Nguồn Forbes US)",
+		"count(*)" : 3
+	},
+	{
+		"author" : "TS Đinh Thế Hiển",
+		"count(*)" : 3
+	},
+	{
+		"author" : "Tuấn Trần",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Nguyễn Hoàng",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Minh Tuấn",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Nguyễn Đức Sơn",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Minh Thảo",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Alan Phan",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Nguyễn Vũ",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Minh Sơn",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Thanh Long",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Hoang Tung Thien",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Hoàng Xuân",
+		"count(*)" : 2
+	},
+	{
+		"author" : "thiên thanh",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Lê Phú Khương",
+		"count(*)" : 2
+	},
+	{
+		"author" : "TTXVN",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Little Scarlet",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Hà Lê",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Lê Thanh Duy",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Hồ Trần Nhã Thy - VTALK",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Minh Tú",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Nguyễn Ánh",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Phạm Hùng",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Thanh Danh",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Lê Văn Thành",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Theo Bộ Công an",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Cao Thị Ánh Tuyết",
+		"count(*)" : 2
+	},
+	{
+		"author" : "GS Nguyễn Tuấn",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Ngọc Thanh",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Thế Mạnh",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Q",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Lam Lam (Nguồn CNBC)",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Savills Việt Nam",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Novaon Communication",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Nguyên Vinh",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Đỗ Cao Bảo - Phó chủ tịch HDQT FPT",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Trần Vũ Hoài",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Minh Phúc",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Quách Mạnh Hào",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Hoàng Đức",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Thông Reo",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Đặng Quốc Hưng",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Tạ Văn Hưng",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Thanh Ngọc",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Trần Anh\/TheLeader",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Dịch Trung Thiên",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Thong Nguyen",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Bình Minh",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Lý Quí Trung",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Bảo Nam",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Huy Nguyên",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Hoàng Thị Kim Dung - Chuyên viên tư vấn đầu tư tại",
+		"count(*)" : 2
+	},
+	{
+		"author" : "HaiLeCanslim",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Hoàng Hương",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Tuan Anh Trinh Nguyen",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Chu Thị Hương Mai",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Peter Pho",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Thùy Dương",
+		"count(*)" : 2
+	},
+	{
+		"author" : "bk9sw",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Thái Hòa\/Cộng đồng bất động sản",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Trần Luân",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Mỹ Linh",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Dương Trường",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Hoàng Hà",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Nguyễn Ngọc Long - Chuyên gia phát triển Thương hi",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Mai Lan",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Triều Long",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Lã Trung Giang",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Võ Trịnh Thùy Anh",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Rob Siltanen",
+		"count(*)" : 2
+	},
+	{
+		"author" : "QRVN",
+		"count(*)" : 2
+	},
+	{
+		"author" : "An Thanh",
+		"count(*)" : 2
+	},
+	{
+		"author" : "An Vũ",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Khánh Hà",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Thu Hằng",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Bảo Chi",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Nguyễn Hương - CEO Đại Phúc Land",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Thế An",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Trần Ngọc",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Mi Mi (Tổng hợp)",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Nguyễn Tiến Trung",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Quỳnh Anh",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Hoàng Triều",
+		"count(*)" : 2
+	},
+	{
+		"author" : "BS Trần Văn Phúc",
+		"count(*)" : 2
+	},
+	{
+		"author" : "An Tú",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Ngọc Diệp",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Nguyễn Hoàng Hải",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Đồng Tiến\/Viettimes",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Nguyễn Quang Thuân - Chủ tịch FiinGroup",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Nguyễn Long",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Đăng Tư",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Kiên Cương",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Hiền Anh",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Tiểu Phượng",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Matthew Powell",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Phạm Dương Ngọc",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Tuyền Lâm",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Hoàng Hạc",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Anh Minh",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Phi Thanh",
+		"count(*)" : 2
+	},
+	{
+		"author" : "TS. Alan Phan",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Luxuo",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Lâm Bình Bảo",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Theo Người đưa tin",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Hải Lý\/Báo Đầu Tư",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Đức Lê",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Đoàn Quốc Việt",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Lan Hương",
+		"count(*)" : 2
+	},
+	{
+		"author" : "DuyenMy",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Tuấn Linh",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Tony Hiếu",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Dương Đức Thắng",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Phạm Hoàng Hải",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Hung Nguyen",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Vũ Cao",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Lê Hồng Lâm",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Thanh Hoa",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Tả Phù",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Văn An",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Phan Minh Thảo",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Ndminhduc",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Hà My",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Tuyết Nguyễn",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Lê Hùng Phú\/Rever",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Phạm Thế Dũng",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Dang Tran Phuc",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Heidi Trần",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Phương Uyên",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Bảo Linh",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Thiên Nhi",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Tiến Mạnh",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Thu Minh",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Đoàn Thảo",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Đào Trung Thành - Chuyên gia tư vấn độc lập",
+		"count(*)" : 2
+	},
+	{
+		"author" : "Đặng Hồng Phúc",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Lam Lam (Nguồn Bloomberg)",
+		"count(*)" : 1
+	},
+	{
+		"author" : "P.W\/tinhte",
+		"count(*)" : 1
+	},
+	{
+		"author" : "MAI QUỐC BÌNH -CEO & FOUNDER THẾ GIỚI GIẤY ",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hoàng Anh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Huyền Trâm",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Litter Scarlet",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Uyên Uyên",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Chu Văn Nam\/CEO & Founder tại Nada Oils",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Điệp Anh (theo Bloomberg)",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Linh Lam",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Mạnh Bôn\/Báo Đầu tư",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tạp Chí Doanh Nhân",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Minh Thiên\/Forbes VN",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trần Sơn\/TheLeader",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tống Hồng Binh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Lê Nghĩa",
+		"count(*)" : 1
+	},
+	{
+		"author" : "TS. Phạm Sỹ Thành\/Giám đốc Chương trình Nghiên cứu",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hùng Long Hổ",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Vũ Hoài",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Quốc Duyệt",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Phuc Phan Dinh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Minh Thiên\/Forbes Việt Nam",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trọng Đạt",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Kinh Kha 07",
+		"count(*)" : 1
+	},
+	{
+		"author" : "batdongsaneco",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Thuan Nguyen",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Cù Tuấn\/ Dịch từ The Economist",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Lê Tình",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nguyễn Quang Thuân - Chủ tịch HĐQT FiinGroup",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trần Ngọc Báu",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nguyen Huu Long",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nguyễn Việt Minh Anh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Ngân",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nhật Thành\/Simplyinvest",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Alex Kawanten",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trúc Linh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nhieu DV",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Switerland",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Phúc Long",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Lược dịch Business Insider",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Rube Lee",
+		"count(*)" : 1
+	},
+	{
+		"author" : "NGUYEN NHA TUAN",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Theo Quang Vũ\/Tri Thức trẻ",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Vuhoangtam",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Ths. Nguyễn Phạm Hữu Hậu - Phó chủ tịch Hanita Mas",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Mai Trường Giang (Founder Chewy Chewy Việt Nam và ",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hoàng Dung",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Alo Căn Hộ",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Theo IPPG",
+		"count(*)" : 1
+	},
+	{
+		"author" : "TS Hồ Quốc Tuấn - Giảng viên Đại học Bristol, Anh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Phan An\/TTXVN",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Lequockhanh1987",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nguyễn Nguyễn",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Theo Nhật Lệ\/VTCNews",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trần Phương",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hiếu Nguyễn",
+		"count(*)" : 1
+	},
+	{
+		"author" : "NewteCons",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hoang Vinh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Khánh An",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Phạm Hân",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trần Phi Tuấn",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trần Võ",
+		"count(*)" : 1
+	},
+	{
+		"author" : "AmbitiousMan",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hoàng Lê",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trung Chính",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Lý Xuân Hải - Cựu CEO ngân hàng ACB",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trần Út",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trọng Tín",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Minh Thu\/Theo QQ, Sina",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Thế Đan",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Văn Dũng",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Vũ Hạo (Theo Nikkei Asia)",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Thu Sương \/ Brands Vietnam",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Diệu Hương",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trần Nguyễn Phương Anh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Xuân Hoát",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Dương Ngọc",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Đỗ Hòa",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nguyễn Phương Nam",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Brian Dang",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Đặng Đức An",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Huỳnh Duyên",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Đặng Trần Phúc - Founder AzFin Việt Nam",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Ngọc Mai\/Báo Tiền phong",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nguyễn Ngọc Diệp",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Lê Trang",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hưng Phạm",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Bảo Trần",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Vũ My",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Vũ Thế Dũng",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Quốc Khánh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Lâm Khoa",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hoa Lê",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Antoine Gara",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Phương Nguyễn",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Didu\/Tinh Tế",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hải Lý\/TBKTSG",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hiền Trang",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tư duy người Do Thái",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nguyễn Nguyễn\/ MarkManson",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Huyền Nguyễn",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Ngọa Hổ",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Phan Tiến Giang",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Quang Duy",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tiến Long",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hoàng Tư Giang",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Đức Hậu",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Admin Bất động sản",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tuyền Trần",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trinh Trần",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hoàng Bá Tầu",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Dũng Trần",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Đỗ Hòa - Chuyên gia chiến lược",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Vũ Kim Hạnh - Chủ tịch Hội Doanh nghiệp Hàng Việt ",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Son Quang",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Băng Băng",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Ngô Nguyên",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tịnh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Mynh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hoàng Hải",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Bộ Công An",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hùng",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nguyễn Quang Thuân - Chủ tịch FiinGroup",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Ngọc Khương",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tri Túc",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Như Xuân",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Theo Bạch Mộc\/ Trí Thức Trẻ",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Phạm Lala",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Theo Vietnamplus",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Thanh Hà",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hoàng LUT",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Góc Xưa",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Kiều Châu",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Mỹ Duyên",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nguyễn Khoa Hồng Thanh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Chu Văn Nam\/CEO & Founder tại Nada Oils",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Coin68",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Minh Thiên\/Forbes",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Vũ Hoàng",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trịnh Như Ngọc",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Thi Anh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "The Mighty Piggy",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Lê Thanh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "CafeLand",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Linh Linh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Phòng phân tích - Safeinvest",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nguyễn Anh Tuấn - Giám đốc Điều hành Australia Asi",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nguyễn Xuân Sơn",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Đoàn Thiên Việt",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Mikewayland",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Theo Bloomberg",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Mai Quốc Bình - Founder & Chairman tại Thế Giới Gi",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tiến sĩ Lê Minh - viện kỹ thuật công nghệ cao, đại",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Theo Minh Khang\/Công lý",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Phú Ngô",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Theo JINLU\/Thể thao và Văn hóa",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Lưu Thủy",
+		"count(*)" : 1
+	},
+	{
+		"author" : "MINH KIÊN",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Quang Anh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tuấn Trần - Tác giả sách Về quê lập nghiệp",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Đoàn Quốc Duyệt",
+		"count(*)" : 1
+	},
+	{
+		"author" : "HONGSINHQUAN",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Sa Mộc (Theo Reuters)",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nguyễn Hoàng Việt",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hoàng Huy",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nguyễn Duy Thịnh - Sói Tài Chính",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Phiên An\/CNBC",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Bình Minh\/VNeconomy",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Đặng Hiếu",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Minh Nguyen Huu",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Dũng Phan\/Onsports",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Jennifer Korn",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Phan Toàn \/ ATP software",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hassle",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hạnh Lê",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Lê Anh Tuấn",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hoàng Ly\/Cafef",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trần Anh Tuấn",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trung Yên",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Base.vn",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Ngọc Anh \/ Advertising Vietnam",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Anh Tú",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Khang Di",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Thư Quỳnh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Châu An",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Paola Subacchi",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Minh Quang",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hưng Vượng",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hải Đường",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Lê Văn Thành (Michael)",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Linh Đàm",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Đông Nhi",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hoàng Anh Huy",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Vân Anhh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nguyệt Ngân",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Mỹ Chi",
+		"count(*)" : 1
+	},
+	{
+		"author" : "VCSC",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nhà phê bình phim Lê Hồng Lâm",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hai Tran Xuan",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Phan Hằng",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Minh Đăng\/ Theo Nikkei",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Phan An",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hoàng Hà \/ Theo Nhịp sống kinh tế",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hải Âu (t\/h)",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tiến sĩ Hồ Quốc Tuấn - Giảng viên Đại học Bristol,",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Quang Thắng",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nguyễn Trung Dũng - CEO Dhfoods",
+		"count(*)" : 1
+	},
+	{
+		"author" : "GolfCircuit",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Thạch Lam\/NDH",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Lương Trọng Nghĩa",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Xuân Sang",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Song Hùng\/DNTT",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tác giả: Hồng Vân Ảnh - Thiết kế: Thế Công",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Phuoc Huyen Anh Nguyen",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tuấn Minh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trần Hóa",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Thiều Hoa",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Thanh Mai",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tình Đăng",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Đặng Đình Hoàng",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trần Thanh Hào",
+		"count(*)" : 1
+	},
+	{
+		"author" : "PGS.TS Phạm Thế Anh, Trưởng bộ môn Kinh tế vĩ mô, ",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Đức Trung",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Quốc Nam",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Vũ Kim Hạnh - Chủ tịch Hội Doanh nghiệp Hàng Việt ",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Thanh Ngọc Nguyễn",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trương Mai",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trọng Nguyễn",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Mạnh Quân",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Theo Bsaonline",
+		"count(*)" : 1
+	},
+	{
+		"author" : "DRCCHEN",
+		"count(*)" : 1
+	},
+	{
+		"author" : "T\/h",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Luật sư Lê Hữu Trí  - Công ty Luật Trilaw",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hoàng Quý",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Ngọc Linh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Gia Nhi",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Phan Dũng",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Luisa Kroll",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Mai Phương Thúy",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Đinh Phạm",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Đình Sơn",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Mai Hòa",
+		"count(*)" : 1
+	},
+	{
+		"author" : "DG\/Theo Gizmodo",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Lê Viết Hải - Chủ tịch HĐQT Tập đoàn Xây dựng Hòa ",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Thành Toàn",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Minh Khánh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Chu Văn Nam - CEO & Founder tại Nada Oils",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Huỳnh Phan\/Viettimes",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nigel Hollis - Former Executive Vice President and",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Laura Burstein",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Bích Chi",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Thu Nga",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Mạnh Dương",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Võ Thái Minh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hương Mai",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Cao Trung Hiếu - Nhà Sáng lập & điều hành Dân Trí ",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Minh Thiên\/Forbes VietNam",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Chi_Khanh_Zen",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Lê Linh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trường lưu - ecomme",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Theo Thuong Nguyen\/Yeah1",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Đỗ Quang Minh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Vito Nguyen",
+		"count(*)" : 1
+	},
+	{
+		"author" : "0362218619",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Phạm Vũ Tùng",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Phương Trịnh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Theo Nguyễn Thùy\/Người đưa tin",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Quỳnh Chi\/TheLeader",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Brands Vietnam",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tuệ Nhiên (Theo BusinessInsider.com)",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nguyễn Thùy Trang",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trần Vinh Dự",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Khánh An\/Nhà Đầu Tư",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Lucy Nguyen",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Duy Anh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trần Hoàng Long\/Tinh Tế",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nguyễn Dương - Founder CEM Partner",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Kim Anh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Thái Phạm",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Thiên Tứ",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Việt Anh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Sekgei Klebinov",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Lemoney Company",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Theo Medium I Nguồn: Style-Republik",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tiền Phong",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Phạm Ngoc Linh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "tranquang",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Phan Mỹ Chí",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Long Phan",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Kim Giang",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Lynch Phan - Founder Take Profit - Value Investing",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Đường Kim",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Người Mua Nhà",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Thảo Nguyên \/ Brands Vietnam",
+		"count(*)" : 1
+	},
+	{
+		"author" : "MinhTriND",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Vũ Lê",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nguyễn Cương",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Đoàn Thức",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hoàng Dương",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Huynh Gia Bao",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Góc nhìn marketing",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tử Nha",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Thùy Vinh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Bùi Tiến Đức (Trưởng phòng phân tích đầu tư FIDT)",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trần Hiếu",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tấn Đạt",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hải Lý",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trường Quản Trị Marketing PACE",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Majaaa",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Robb Report",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Thanh Phong",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Bạch Lan",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Huy Đặng",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Đan Hà",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tony Pham",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Thùy Dương\/Báo Tin tức",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Phạm Hữu Quang",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Brian Tong",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hoằng Nghi",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Bạch Huệ\/ Theo Nhịp sống kinh tế",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nguyễn Tùng Anh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nguyễn Dương, CCXP - Founder of CEM Partner",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Minh Duy",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Theo Thảo Nguyên\/ Brands Vietnam",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Chi Lê\/Vnexpress",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Lê Minh Mẫn",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Quỳnh Anh\/Forbes",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Vũ Minh Trường - NCS Tiến sĩ Lãnh Đạo Chiến Lược, ",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Switzerland",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hai H Nguyen",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hoàng Tùng - Founder tại Bếp trên mây CLOUD COOK",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Theo cafef",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Đỗ Duy Ngọc",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Thanh Chung Nguyễn",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Đình Thông",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Timmy Nguyen",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tinh Anh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Jenny",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trương Thảo Nhi",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Steven Tran - Senior Marketing Manager @ Homebase",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trung Dũng",
+		"count(*)" : 1
+	},
+	{
+		"author" : "TenMax Vietnam",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Lê Dương Ngọc",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tri M.Ngo",
+		"count(*)" : 1
+	},
+	{
+		"author" : "gialai",
+		"count(*)" : 1
+	},
+	{
+		"author" : "hieunguyen",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Cù Tuấn dịch từ tạp chí Time",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Phi Nguyễn Thị",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trương Nhật Hạ",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Lâm Hoàng",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Ý Nhi",
+		"count(*)" : 1
+	},
+	{
+		"author" : "DG\/Theo Futurism",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Kinh Kha",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Thủy Tiên",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Matthew Loh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Theo Phát Đạt Corporation",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Theo Anh Minh\/Báo Đầu tư",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Khánh Linh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Theo Huỳnh Tuấn",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hoàng Nguyệt Minh, Giám đốc Cho thuê Thương mại, S",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Bảo Anh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Thiên An",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Anh Phan\/RobbReport",
+		"count(*)" : 1
+	},
+	{
+		"author" : "TS. HỒ QUỐC TUẤN, Giảng viên Đại học Bristol, Anh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Piero Hà Nội",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Ricons",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hương Liên",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nguyễn Phạm Khánh Vân",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Minh Lâm",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nhật Linh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trọng Công S-Talk",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nguyễn Thế Minh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Minh Tuấn\/Theo Forbes",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Jeremy Repanich",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trang Ps",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Cà Phê Lộc Vừng",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Chris Marriott",
+		"count(*)" : 1
+	},
+	{
+		"author" : "P.W",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Advertising",
+		"count(*)" : 1
+	},
+	{
+		"author" : "TRỊNH UYÊN",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hương Giang",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Paul Nguyễn\/Simplyinvest",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Phan Anh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Linh Đỗ\/Zing News",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trương Tuấn Nghĩa",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Lai Ho",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tiến sĩ Hồ Quốc Tuấn\/Giảng viên cao cấp Đại học Br",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nguyễn Tuấn Hùng",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nhật Minh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Theo Keva",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Sun Ju",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nguyễn Anh Tín",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Propzi",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hạnh Tiêu",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Bảo Lâm\/Business Insider",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Phan Sỹ Linh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Team Lãng Tử buôn nước mắm",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Lã Trung Giang - CEO Passion Investment",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nguyệt Tú",
+		"count(*)" : 1
+	},
+	{
+		"author" : "An Huy",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Johnny Tran",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nguyễn Quảng Đức",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Thành - Đất nền Việt Nam",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Forbes Việt Nam",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Việt Huỳnh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Vũ Thị Lâm Oanh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Bác sĩ Nguyễn Văn Phúc",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hung Dang",
+		"count(*)" : 1
+	},
+	{
+		"author" : "spnambk",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Đỗ Hòa - CEO Công ty Tinh Hoa Quản trị",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nguyễn Cảnh\/TheLeader",
+		"count(*)" : 1
+	},
+	{
+		"author" : "An Le",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tiến sĩ Toán học Nguyễn Ngọc Chu",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Đan Anh\/Dân Trí",
+		"count(*)" : 1
+	},
+	{
+		"author" : "An Nguyễn",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Zing News",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tới Nguyễn",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Ánh Dương",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Kim Dung (Theo Bloomberg)",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Giang Phạm",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Elink Golf",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Quang Huy",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Thang Nguyen",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hà Long",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Đinh Đức Hoàng",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tạ Hồng Phúc",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nguyễn Ngọc Long - Founder Truyền Thông Trăng Đen",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Thann Auttanukune  - Vice President C.P. Vietnam C",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Mai Hữu Tín - Chủ tịch kiêm TGĐ Tập đoàn Unigroup",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Theo BCA",
+		"count(*)" : 1
+	},
+	{
+		"author" : "GS.TS Trần Ngọc Thơ",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Sức mạnh thuyết phục, Kurt W. Mortensen",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Minh Vy",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Quý Quý",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Xuân Bình",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Vincenzoperfume.Official",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Troy Griffiths, Phó Tổng Giám đốc, Savills Việt Na",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Theo P.V\/Báo Tiền Phong",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hà Thu (theo Bloomberg)",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Mark Mason",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Happy Live",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Mavis",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Vu Lam\/Businessinsider",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Ánh Tuyết",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tịnh Anh Hoa",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tyanna Tran",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Thương Hoài",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Thanh Nga",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trần Quỳnh Tiên",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Việt Thắng",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Châu Tấn Phát",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tat Dat Hua",
+		"count(*)" : 1
+	},
+	{
+		"author" : "CEO Nguyễn Bá Lịch",
+		"count(*)" : 1
+	},
+	{
+		"author" : "ICTS Custom Software",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Phạm Nhật",
+		"count(*)" : 1
+	},
+	{
+		"author" : "NGUYÊN",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hoàng Tuấn Huy",
+		"count(*)" : 1
+	},
+	{
+		"author" : "TS. Hồ Quốc Lực - Nguyên Chủ tịch VASEP, Chủ tịch ",
+		"count(*)" : 1
+	},
+	{
+		"author" : "LD LV",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Đức  Lê",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Văn Hoài Thương",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Thanh Lễ",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Huỳnh Trần Ngọc Tâm",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nguyễn Ái Linh -  Phòng QLKCN, Trụ sở chính Vietco",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Bạch Huệ \/Theo Nhịp sống kinh tế",
+		"count(*)" : 1
+	},
+	{
+		"author" : "DongDC",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Bạch Linh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hoàng Nguyễn Nguyên Thảo",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Phạm Văn Đính",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Ngọc Hiếu",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Đan Nguyên\/RobbReport",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Anh Trần",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Lê Hoàng Uyên Vy, đồng sáng lập & giám đốc điều hà",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Lê Chí Hiếu",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hoài Nam",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Thái Bình",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Duy Thịnh - Sói Tài Chính",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Thai Hong Ngoc",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tiến sĩ Huỳnh Thế Du",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Typhudola",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Đào Hoàng Hải Sơn",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Phillip Tracy",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trung Mến",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Lauren Debter\/Theo Forbes",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Theo TTVN",
+		"count(*)" : 1
+	},
+	{
+		"author" : "kyduyen1612",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hùng Trần",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tuyết Ân\/Forbes VietNam",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Lê Thị Mỹ Tâm",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Anh Khôi\/KTCK",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trần Thăng Long",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Bộ Y tế",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Phương Oanh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Minh Quân",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Cuhiep\/Tinhte",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Karen Weintraub",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Darren",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Theo Đất Việt",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tất Đạt\/Bloomberg",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Christy Lê",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Đình Nam\/TTCP",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Văn Phúc\/SGGP",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nhung Bui",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Như Thủy",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Ths Trịnh Minh Thảo\/Banker có gì vui",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Huu Hon",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Đào Nhật Minh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nguyễn Quốc Toàn - Chủ tịch kiêm CEO của EQuest Gr",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Quân Lê",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Diệu Quang (TH)",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trịnh Tân",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tú Minh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nguyễn Tiến Cảnh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nguyễn Tiến Hoàng",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Minh Khoa",
+		"count(*)" : 1
+	},
+	{
+		"author" : "P.W\/Theo MacRumors",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hùng Đình-9```````````````````",
+		"count(*)" : 1
+	},
+	{
+		"author" : "TS. LÊ ĐẠT CHÍ, Khoa Tài chính, UEH",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Mai Huỳnh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Chí Kiên\/  FILI",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Đông Giang",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Quạ",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Team Finhay",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Giáo sư Nguyễn Văn Tuấn - Giám đốc Trung tâm Công ",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nguyệt Anh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Bảo Chương",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hoàng Hải Vân",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Mai Quốc Bình - CEO Thế giới Giấy",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Phương Hoàng",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Phạm Thanh Tuấn",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tiểu Gu\/theo Time, Fortune",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hà Nguyễn",
+		"count(*)" : 1
+	},
+	{
+		"author" : "TS. Huỳnh Thế Du - Trường ĐH Fulbright",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Mai Thị Ánh Tuyết - Marketing Manager , Logitech V",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Diệp Sa",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hanah",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Phạm Lê Hiếu Sĩ",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Lê Hoa",
+		"count(*)" : 1
+	},
+	{
+		"author" : "UpBase",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nguyễn Văn Tuấn - Giáo sư Y khoa, Đại học New Sout",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Quora Việt Nam",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Toàn Nguyễn",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Phunutoday",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Rachel Cormack",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Theo UBCKNN",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Chí Bình\/ VietnamFinance",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Ngô Thành Huấn",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Khánh Vân",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Phú Lê",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Troy Griffiths - Deputy Managing Director, Saviils",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hồng Mẫn",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Đinh Lê Vũ - Chuyên viên phân tích kinh doanh và x",
+		"count(*)" : 1
+	},
+	{
+		"author" : " Trần Bung",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Bảo Vy",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Phạm Ngọc Linh - CEO UniqueOOH",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tran Dung",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Minh Đức",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Đào Vân",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Lynch Phan",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Phương Đông",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Quốc Tuấn",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tien Nguyen",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tiến Hoàng",
+		"count(*)" : 1
+	},
+	{
+		"author" : "T - Thanh Hương",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tuyền Công",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Helen",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nguyễn Văn Lâm",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nguyễn Đức Sơn - Brandson",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trần Chí Hiếu",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tan Dang",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Kim Dung",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Bảo Lâm",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Cường Lưu",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trần Mạnh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hiên Vĩ",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Mỹ Thịnh NC",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tuyền Mỹ",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Vi Tiều",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trung Nhân (Theo Sputnik)",
+		"count(*)" : 1
+	},
+	{
+		"author" : "T.T",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nam Nguyễn – Lead Solution Enginees của Salesforce",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Lê Phú Khương\/Tinhte",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Lưu Minh Sang - Trường Đại học Kinh tế – Luật, ĐHQ",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trần Thị Ngọc Anh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Quoc Phu Pham\/VWA",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Lê Thành Vân - Founder kiêm Chủ tịch Gumac",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Quỳnh Trang (Theo Coindesk, Bloomberg)",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Mosa Group",
+		"count(*)" : 1
+	},
+	{
+		"author" : "HOÀNG TÙNG - Mr PIZZA",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nguyen Xuan Quynh\/Bloomberg",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Thụy Lê",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hải Vân",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Diana Nguyễn\/ Theo Business Insider",
+		"count(*)" : 1
+	},
+	{
+		"author" : "France.24",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Bác sĩ Trương Hữu Khanh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Lưu Quý",
+		"count(*)" : 1
+	},
+	{
+		"author" : "JENNY KAY\/ THEO PHÁP LUẬT & BẠN ĐỌC",
+		"count(*)" : 1
+	},
+	{
+		"author" : "TS Hồ Quốc Tuấn",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hân Nguyễn\/ Theo Financial Times",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Thành Trung",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Quỳnh Chi",
+		"count(*)" : 1
+	},
+	{
+		"author" : "https:\/\/langtubuonnuocmam.com\/szc-2022-kho-khan-bu",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Paul Nguyễn",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Evelyn Cheng",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Lam Lam (Theo SCMP)",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Vương Tiến Thành\/Simplyinvest",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Dink",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Anh Khoa",
+		"count(*)" : 1
+	},
+	{
+		"author" : "diepdiep",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Ricky Hồ\/BSA",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Jeremy Bogaisky\/Forbes",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Ross Carnegie",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nguyễn Anh Tuấn",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Bạch Huỳnh Duy Linh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Lê Trần Khôi Nguyên\/VWA",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Xuân Nghĩa\/Fili",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Quang Diệu (TH)",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Chí Kiên\/Fili",
+		"count(*)" : 1
+	},
+	{
+		"author" : "BAR",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tú Anh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Vnexpress",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Adam Confessions",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Johnny Toi Nguyen",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Andro",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Linh Lan",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Lưu Vinh\/VWA",
+		"count(*)" : 1
+	},
+	{
+		"author" : "BrandSon",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Vũ Hải Đăng",
+		"count(*)" : 1
+	},
+	{
+		"author" : "TS Hồ Quốc Tuấn - Giảng viên, Đại học Bristol, Anh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Đức Minh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "TungNui",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Vũ Anh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trần Bằng Việt - CEO tại Dong A Solutions",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Phú Long",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nguyễn Thành Tiến",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Minh Nghĩa",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Thùy Anh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "TS Quách Mạnh Hào",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nguyễn Hải",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Báo Chính Phủ",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Đình Quang - Vĩnh Phú",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Huỳnh Thanh Tâm",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nguyễn Hùng Cường",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Thanh Sang",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Anh Quân (forum.autodaily.vn)",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Phúc Thịnh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Ivan Nguyễn",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Chris Helman",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Quốc Dũng",
+		"count(*)" : 1
+	},
+	{
+		"author" : "TS Nguyễn Phương Mai, Đại học Khoa học ứng dụng A",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Matthew Loh\/ Businessinsider",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Lê Phước",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Từ Ngọc Quý",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Forbes",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Phương Linh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hằng Nga",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Lã Giang Trung - Founder & CEO tại Passion Investm",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Sơn Nguyễn – Phó chủ tịch phụ trách Giải pháp và d",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Rainer Zitelmann",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tuấn Nguyễn",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Đặng Hồng Phước",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tri M. Ngo",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tinh Minh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Thông Hoàng",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tiêu Thùy Linh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hoa Hằng",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Du Lam",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nguyễn Huy",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Kiều Hải Sơn",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Lê Văn Tạch",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nguyễn Thị Thu Hà",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tuyết Mai",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Phạm Khải",
+		"count(*)" : 1
+	},
+	{
+		"author" : "KL",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trương Minh Anh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tiểu Long",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Phan Dinh Manh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Jenny Phan",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Robert Ross",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Ryan Nguyen",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nguyễn Trung Dũng - CEO DH Foods",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Lily Tran",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Dan Alexander\/Forbes",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Thanh Thủy",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Đỗ Hùng",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Đặng Việt Hùng Chủ tịch HĐQT, Tổng Giám đốc Biosco",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Khiem Tran",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nguyễn Ánh\/Viettimes",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Thế An (Tổng hợp)",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Anh Khang",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Quỳnh Anh\/Forbes Viet Nam",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nguyễn Văn Phước- Founder & CEO tại First News Trí",
+		"count(*)" : 1
+	},
+	{
+		"author" : "PGS - TS Nguyễn Tiến Đông",
+		"count(*)" : 1
+	},
+	{
+		"author" : "MAI QUỐC BÌNH - CEO & FOUNDER THẾ GIỚI GIẤY, SACHI",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Thạch Thảo",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Anh Nhi",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Lê Đức Anh - CEO Wonder Trip ",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Kiên Hoàng\/simplyinvest",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Quynh Nguyen",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Ngọc Hùng",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Thái Phan\/SimplyInvest",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Ricky Hồ\/ TBKTSG",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Giang Lê\/Forbes",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Yahra Tayeb",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Theo WRAL TechWire",
+		"count(*)" : 1
+	},
+	{
+		"author" : "David Booth\/ Khương An lược dịch",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Anh Tân\/NĐT",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Võ Hoài Nam",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Vit Triky",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Ngọc Quang",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Vũ Minh Trường - NCS Tiến sĩ Lãnh Đạo Chiến Lược",
+		"count(*)" : 1
+	},
+	{
+		"author" : "T. Sam",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Phan Tuệ\/ Group VWA",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Ngô Phương Thảo",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Minh Nga",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Phạm Thanh Hiếu",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Sa Mộc (Dịch tổng hợp)",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Đ.Dương\/Trường doanh nhân HBR",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hữu Trí\/VTV",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Thúy Phương",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Quang Dân\/Etime",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trần Quốc Tuấn",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nguyễn Cảnh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Fili (Theo Bloomberg)",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Phi Nguyễn",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Lân Lan",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Bigstarmedia",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Young Entrepreneur của Pennsylvania State Universi",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Bản Việt",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nguyễn Tường",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Đức Đàm",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Đình Phương",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Huỳnh Thế Du",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Người Đồng Hành",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Xuân Vi Trần",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tú Viên",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Văn Hà",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Sapo",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Mây Vân",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Đặng Thanh Vân",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Phân Tích Tài Chính",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Lê Hùng Phú",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tuệ Thành",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Michael Verdon",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trần Trang",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Thu Hà",
+		"count(*)" : 1
+	},
+	{
+		"author" : "ỦY BAN KIỂM TRA TRUNG ƯƠNG",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Đào Duy Nam",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Đỗ Thắng",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tapchidoanhnhan",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nam Anh- Hằng Trịnh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Vincente Nguyen",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Dong DC",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Theo Minh Thư\/Infonet",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Người bản lĩnh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Thắng Phạm",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nhà Của Cáo - Tinhte.vn",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Theo Lê Hiếu\/BSA",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Sound of Hope",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Đại Việt",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Đức Hảo",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Giáp Đức Thắng",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Lương Thị Mỹ Hạnh - Giám đốc Quản lý tài sản, Khối",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Vũ Thế Thành",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Thoa Nguyên",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Lê Viết Quân",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Thiên Minh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Na Li",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trường An",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Phan Minh Thuận",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Phuoc Nguyen Pham",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Dương Minh Tuấn",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hoàng Quốc Dũng",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Phùng Anh Tuấn - Chủ tịch kiêm CEO F88",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hồng Hạnh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "minh ha",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trần Công Tứ",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Namster Do",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Dương Tống - Founder of HomeNext Corp",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Văn Hưng\/Zing News",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trịnh Ngọc Quỳnh Trang",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Giáo sư Trần Văn Thuấn",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Bui Van Duong",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trang PS\/Theo howtospendit",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Mr Coach Lâm Bình Bảo",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Đông Quân",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Quỳnh Đặng",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Quang Vinh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Thuận Phát",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Minh Hằng",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Ninh Nhi",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Quỳnh Anh\/Forbes VN",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Quynh Hoang\/ Theo Merger",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Giang Thanh\/Forbes Việt Nam",
+		"count(*)" : 1
+	},
+	{
+		"author" : "THANH HƯƠNG",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Phan Bảo Long - Founder LMS Academy",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hoàng Thị Kim Dung - Associate tại Genesia Venture",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Advertising VietNam",
+		"count(*)" : 1
+	},
+	{
+		"author" : " Darrell K. Rigby (Harvard Business Review)",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trần Đức Huân",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Jenny Kay",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Huyền Chip",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Lumzuee Pharm",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Minh Giang",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nguyễn Đăng Hùng",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Thùy Ân",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trong Tran Tđt",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Thịnh Phạm\/Robbreport",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tất Đạt",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Mỹ Linh\/Rever",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hạ Đinh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Lê Ngân",
+		"count(*)" : 1
+	},
+	{
+		"author" : "An Trần",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Quo VietNam",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Thu Hiền",
+		"count(*)" : 1
+	},
+	{
+		"author" : "govalue",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Andy",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tám Nguyễn Mỗ",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Yen Vo",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Linh Nhi",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Quỳnh Trang - Tạ Lư",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trung Phạm",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Phạm Quang Huy",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Theo Hoàng Nga\/VTV",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Duy Hưng Vũ | QRVN",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Cao Đình Kiên",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Thai Ha Nguyen",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Lê Diệp Kiều Trang",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Chau Pham\/Group VWA",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Viễn Thông - Phương Ánh\/VNE",
+		"count(*)" : 1
+	},
+	{
+		"author" : "do duc tien",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Lê Bùi Tuấn Nghĩa",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Đăng Dương",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Chương Đặng",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Anthony Nguyễn - CEO, Opalese Boutique Travel",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Bạch Mộc",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hà Quang Minh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Lê Thành - Research Manager tại WiGroup",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Ben Lovejoy",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tiểu Lam",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Minh Tâm\/Forbes",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Lê Nam",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Lê Tân",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Chí Bình",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Cương Nguyễn",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Minh Thư",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Dinh Quoc Huy",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Theo Báo Chính phủ",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Thuận Hòa",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hải Âu",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trương Thoa",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Vũ Hạo (Theo CNBC)",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Ngọc Ánh (Theo Bloomberg)",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Dr Cherry Vũ",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trần Hùng Thiện - Founder GCOMM Research",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hamy Nguyen",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Minh N",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Nguyễn Hoàng Anh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Son Anh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trung Tín",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Bạch Hoàn",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Khổng Loan\/Forbes Việt Nam",
+		"count(*)" : 1
+	},
+	{
+		"author" : "TS. Nguyễn Hồng Vũ,  Viện Nghiên cứu ung thư, City",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Vphlinh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Phan Cao Cường",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Quốc Minh - Theo Pháp luật và bạn đọc",
+		"count(*)" : 1
+	},
+	{
+		"author" : "M. Trâm",
+		"count(*)" : 1
+	},
+	{
+		"author" : "H.V.Tiến",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Khải Đơn",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Cù Tuấn\/ Theo Washington Post",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Linh Phương",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Bảo Hà",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Michael del Castillo\/Forbes",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trọng Trần",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Xuân Tuyền",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Phan Dũng Khánh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Thiên Hòa",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tuyết Trinh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Trang Lê",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Vân Linh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hà Linh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Khai Tâm (Theo Nikkei Asia)",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Cao Hữu",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Khắc Niệm",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Tin hay mỗi ngày",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Vũ Thùy Phương Hiếu",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Hoa Minh",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Ngoc BP",
+		"count(*)" : 1
+	},
+	{
+		"author" : "Thu Thảo",
+		"count(*)" : 1
+	}
+]}
