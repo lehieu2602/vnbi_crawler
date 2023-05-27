@@ -1,4 +1,4 @@
-## Project gồm 3 phần:
+## Project gồm 4 phần:
 1. vietnambusinessinsider: folder crawler data
    * file code crawl data: vnbi.py
    * pipiline đưa vào CSDL MySQL: pipelines.py
